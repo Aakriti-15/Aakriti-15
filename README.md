@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Aakriti Aggarwal</h1>
+<h3 align="center">Software Engineer | Backend & Full-Stack Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aakriti-15&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+- 💬 Ask me about **Java, DSA, Backend Development, REST APIs**
+- 🌱 Currently building scalable applications using **Node.js, NestJS & MySQL**
+- 📫 Reach me at **aakritia30@gmail.com**
+
+---
+
+### Languages and Tools
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
