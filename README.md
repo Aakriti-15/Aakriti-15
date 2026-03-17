@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ---
 
 - 💬 Ask me about **Java, DSA, React, Backend Development, REST APIs**
-- 🌱 Currently building scalable applications using **Node.js, NestJS & MySQL**
+- 🌱 Currently building scalable applications using **Node.js, React.js, MongoDb, NestJS & MySQL**
 - 📫 Reach me at **aakritia30@gmail.com**
 
 ---
